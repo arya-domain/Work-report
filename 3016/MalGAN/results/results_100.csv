@@ -1,0 +1,2 @@
+time_completed,M,Z,batch_size,test_set_size,detector_type,activation,gen_hidden_dim,discim_hidden_dim,avg_validation_loss,avg_test_loss,avg_num_bits_changed,auc,orig_mal_detect_rate,mod_mal_detect_rate,ben_mal_detect_rate
+2023-11-22 16:19:20.587624,128,10,32,361,RandomForest 100 Epochs,LeakyReLU,"[256, 256]","[256, 256]",-1.368381977081299,-1.630427122116089,27.242,0.91179654,0.98901099,0.54578755,0.11363636
